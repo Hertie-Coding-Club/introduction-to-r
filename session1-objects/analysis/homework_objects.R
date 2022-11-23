@@ -30,8 +30,7 @@
 
 
 #4.- Assign the following vectors to a meaningful variable name:
-#Hint: Remember the assignment operator. 
-
+#Hint: Remember the assignment operator. Example:
 
 c(2, 4, 6, 8, 10, 12, 14, 16, 20)
 
