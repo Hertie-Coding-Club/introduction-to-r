@@ -21,7 +21,7 @@
 
 ## Description
 
-This repository provides materials for the introduction to R sessions. 
+This repository provides materials for the introduction to R sessions.
 
 ## Files
 
@@ -33,36 +33,36 @@ The repository is divided as follows:
 
 -    📁 **analysis**: Our R project. Open this to work with the scripts
 
-      -   📄 answers_exercises_objects.R: Our R project. Open this to work with the scripts
+      -   📄 **answers_exercises_objects.R**: Answers of the exercises of the first session.
       
-      -   📄 exercise_objects.R: Our R project. Open this to work with the scripts
+      -   📄 **exercise_objects.R**: Our R project. Exercise to practice object skills.
       
-      -   📄 homework_objects.R: Our R project. Open this to work with the scripts
+      -   📄 **homework_objects.R**: Our R project. Homework to practice object skills. 
       
-      -   📄 session1_objects.R: Our R project. Open this to work with the scripts
+      -   📄 **session1_objects.R**: Our R project. Script of the objects session. 
 
--   📄 session1-objects.Rproj: Our R project. Open this to work with the scripts
+-   💻 **session1-objects.Rproj**: Our R project. Open this to work with the scripts.
 
-   
+-   📗 **Slides_session_1.pdf**: PDF with the slides of the session.  
 
+<br/>
 
+---------------
 
-📁 **session2-dataframes**: Markdowns with exercises.
+<br/>
 
--   📄 Exercise quanteda: Exercise quanteda_cleaned.Rmd
-   
--   📄 Exercise quanteda with answers: Exercise quanteda.Rmd
+📁 **session2-dataframes**: Rdata frames to pull for our live coding session, presentations, etc.
 
-📁 **live-coding-session**: files that contains a markdown with the live coding session. 
+-    📁 **analysis**: Our R project. Open this to work with the scripts.
 
--   📄 Exercise quanteda with answers: How_we_met_quanteda.html
+      -   📄 **answers_exercises_dataframes.R**: Answers of the exercises of the first session.
+      
+      -   📄 **exercise_dataframes.R**: Our R project. Exercise to practice object skills.
+      
+      -   📄 **homework_dataframes.R**: Our R project. Homework to practice object skills. 
+      
+      -   📄 **session1_dataframes.R**: Our R project. Script of the objects session. 
 
-📁 **quarto**: our main presentation to introduce the topic in quarto presentation.
+-   💻 **session1-dataframes.Rproj**: Our R project. Open this to work with the scripts.
 
--   📄 Quanteda_presentation_final_version.html (We will have two parts for the live coding session: a Markdown and this presentation).
-
-📁 **scripts**: raw data file of our live code session for the persons that are interested. 
-
--   📄 01_raw_script.R
-
-📁 **texts**: How I Met Your Mother TV scripts. 
+-   📗 **Slides_session_2.pdf**: PDF with the slides of the session.  
